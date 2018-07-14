@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <!--hide invoice order button-->
+        <function model="sale.order" name="hide_invoice_order_button"/>
+    </data>
+</odoo>
